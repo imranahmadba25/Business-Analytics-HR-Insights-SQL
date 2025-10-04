@@ -1,4 +1,4 @@
-# HR Business Analytics SQL Project  
+# HR Analytics SQL Project  
 
 📊 **SQL-based Business Analytics Project in HR Domain** – This project uses candidate data to demonstrate **table creation, data exploration, and analysis queries**. It focuses on **HR Analytics**, including sourcing trends, hiring funnel optimization, dropout analysis, and salary insights, showcasing how SQL can generate actionable business decisions.  
 
