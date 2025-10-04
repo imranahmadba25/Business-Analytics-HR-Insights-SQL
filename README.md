@@ -1,6 +1,6 @@
-# HR Analytics SQL Project  
+# 📊 HR Analytics SQL Project  
 
-📊 **SQL-based Business Analytics Project in HR Domain** – This project uses candidate data to demonstrate **table creation, data exploration, and analysis queries**. It focuses on **HR Analytics**, including sourcing trends, hiring funnel optimization, dropout analysis, and salary insights, showcasing how SQL can generate actionable business decisions.  
+**SQL-based HR Analytics Project** – This project uses candidate data to demonstrate **table creation, data exploration, and analysis queries**. It focuses on **HR Analytics**, including sourcing trends, hiring funnel optimization, dropout analysis, and salary insights, showcasing how SQL can generate actionable business decisions.  
 
 ---
 
@@ -38,9 +38,26 @@
 ## 🎯 Skills Highlighted  
 
 - SQL (SELECT, COUNT, GROUP BY, WHERE, AVG)  
-- Business Analytics  
+- HR Analytics & Business Analytics  
 - HR Data Insights (Hiring Funnel, Salary Gap, Dropout Analysis)  
 - Translating Business Questions → SQL Queries → Actionable Insights  
 
 ---
 
+## 📊 Key Insights  
+
+- Identified **top sourcing channels** driving maximum hires  
+- Found **dropout stages** in the hiring funnel  
+- Highlighted **salary gaps** between expected vs current  
+- Gender distribution & location preferences analysis  
+- Shortlisted **candidates based on notice period & experience**  
+
+---
+
+## 📌 Relevance to HR Analytics  
+
+This project demonstrates:  
+- Applying **SQL** to real-world **HR datasets**  
+- Extracting **HR metrics** such as sourcing effectiveness, dropout rate, salary gap, and hiring funnel trends  
+- Translating **business problems into SQL queries** and insights  
+- Skills directly relevant for **HR Analytics / HR Data Analyst roles**  
